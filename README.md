@@ -1,8 +1,6 @@
 # nemo-desktop-bullseye
 `nemo-desktop` binary from Debian 11 package, recompiled wihtout root check.<br>
-Copy it to `/usr/bin/`:
-
-`cp nemo-desktop /usr/bin/nemo-desktop`
+Copy it to `/usr/bin/`.
 
 Or install the packge:
 
